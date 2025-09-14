@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Uyutov_pavel_isp_231_Dz1
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
