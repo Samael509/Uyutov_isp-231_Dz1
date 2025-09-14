@@ -57,8 +57,6 @@ namespace Uyutov_pavel_isp_231_Dz1
                 int f = a1 * x * x + b1 * x + c1;
                 Console.WriteLine($"Значение f(5): {f}");
                 
-    
-
                 // Задание 4
                 Console.WriteLine("Ваше имя: ");
                 string name1 = Console.ReadLine();
